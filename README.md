@@ -1,6 +1,6 @@
 # Open-Source Portfolio
 
-Welcome to the **open-source-portfolio** GitHub repository! This project is designed to provide developers with a fully functional full-stack portfolio template featuring an admin login. With this repository, developers can easily set up their own portfolio websites, customize them to their liking, and manage their portfolio content through a user-friendly UI.
+Welcome to the **Portfolio** GitHub repository! This project is designed to provide developers with a fully functional full-stack portfolio template featuring an admin login. With this repository, developers can easily set up their own portfolio websites, customize them to their liking, and manage their portfolio content through a user-friendly UI.
 
 ## Overview
 
@@ -18,13 +18,13 @@ To get started with using this portfolio template, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/MeerUzairWasHere/open-source-portfolio.git
+   git clone https://github.com/MeerUzairWasHere/Portfolio.git
    ```
 
 2. **Install Dependencies**: Navigate into the project directory and install the necessary dependencies for both the frontend and backend:
 
    ```bash
-   cd open-source-portfolio
+   cd Portfolio
    npm install
    ```
 
@@ -161,7 +161,7 @@ Contributions to this open-source project are welcome! If you have any ideas for
 
 ---
 
-Thank you for using the **open-source-portfolio** repository! If you have any questions or need further assistance, feel free to reach out. Happy coding!
+Thank you for using the **Portfolio** repository! If you have any questions or need further assistance, feel free to reach out. Happy coding!
 
 ---
 

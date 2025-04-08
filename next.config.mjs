@@ -9,5 +9,7 @@ const nextConfig = {
     ],
   },
 };
+console.log("TEST Clerk Secret Key:", process.env.CLERK_SECRET_KEY);
+
 
 export default nextConfig;
