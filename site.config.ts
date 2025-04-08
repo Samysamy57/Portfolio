@@ -1,6 +1,6 @@
 export const siteConfig = {
-    name: "Mir Uzair  - Portfolio",
-    description: "Driving end-to-end excellence with seamless user experiences through masterfully crafted code.",
+    name: "Babouri Samy  - Portfolio",
+    description: "Wemcome to my Portfolio.",
     logo: {
         url: "/logo.png",
         href: "/logo.png"
