@@ -17,7 +17,7 @@ export const Navbar = () => {
         <div className="flex items-center justify-between space-x-4 md:block md:w-auto">
           <div className="flex gap-2 items-center">
             <SignedIn>
-              <UserButton afterSignOutUrl="/" />
+              <UserButton afterSignOutUrl="" />
             </SignedIn>
             <ThemeToggler />
             <SignedOut>

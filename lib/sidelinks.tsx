@@ -12,7 +12,7 @@ type sideLink = { text: string; href: string; icon: React.ReactNode };
 export const sidelinks: sideLink[] = [
   {
     text: "Home",
-    href: "/",
+    href: "",
     icon: <Home />,
   },
   {
