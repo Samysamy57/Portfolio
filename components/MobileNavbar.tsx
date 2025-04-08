@@ -74,7 +74,7 @@ export const links: {
   },
   {
     title: "Home",
-    href: "",
+    href: "/home",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"

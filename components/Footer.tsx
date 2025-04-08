@@ -29,7 +29,7 @@ const Footer = () => {
           {data?.website && (
             <Link
               className="rounded-full w-6 h-6 overflow-hidden border"
-              href="">
+              href="/home">
               <Image
                 alt="Avatar"
                 className="rounded-full border aspect-square object-cover"

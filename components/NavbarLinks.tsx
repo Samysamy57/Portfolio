@@ -19,7 +19,7 @@ import { Cpu, Home, CheckCircle, Layers } from "lucide-react";
 export const links: { title: string; href: string; icon?: any }[] = [
   {
     title: "Home",
-    href: "",
+    href: "/home",
   },
   {
     title: "About",
