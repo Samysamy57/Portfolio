@@ -75,7 +75,7 @@ export default function HomePage(): JSX.Element {
 							className="text-gray-800 dark:text-white text-2xl sm:text-3xl md:text-5xl lg:text-7xl tracking-tight font-extrabold  ">
 							Hey <span className="inline-block origin-70 animate-wave">👋</span> I&apos;m
 							<br />
-							Sameemul Haque
+							samy babouri
 							<br />a <Pill.Standard className="mt-4">developer</Pill.Standard>
 						</Animate>
 

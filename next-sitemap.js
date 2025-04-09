@@ -1,5 +1,5 @@
 const isProduction = process.env.NODE_ENV === 'production';
-const domain = isProduction ? 'sameemul-haque.vercel.app' : 'localhost:3000';
+const domain = isProduction ? 'samy-babouri-portfolio.vercel.app' : 'localhost:3000';
 const protocol = isProduction ? 'https' : 'http';
 
 /**

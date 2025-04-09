@@ -8,22 +8,22 @@ export function useSeoProps(
 ): Partial<ComponentProps<typeof NextSeo>> {
 	const router = useRouter();
 
-	const title = 'sameemul haque ─ developer';
-	const description = "Hey 👋 I'm Sameemul Haque, a developer";
+	const title = 'samy babouri ─ developer';
+	const description = "Hey 👋 I'm samy babouri, a developer";
 
 	return {
 		title,
 		description,
-		canonical: `https://sameemul-haque.vercel.app/${router.asPath}`,
+		canonical: `https://samy-babouri-portfolio.vercel.app/${router.asPath}`,
 		openGraph: {
 			title,
 			description,
-			site_name: 'sameemul haque',
-			url: `https://sameemul-haque.vercel.app/${router.asPath}`,
+			site_name: 'samy babouri',
+			url: `https://samy-babouri-portfolio.vercel.app/${router.asPath}`,
 			type: 'website',
 			images: [
 				{
-					url: 'https://sameemul-haque.vercel.app/banner.png',
+					url: 'https://samy-babouri-portfolio.vercel.app/banner.png',
 					alt: description,
 					width: 1280,
 					height: 720,
