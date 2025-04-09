@@ -1,0 +1,170 @@
+[
+	{
+		"title": "JavaScript",
+		"icon": "devicon:javascript",
+		"link": {
+			"url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+		}
+	},
+	{
+		"title": "React",
+		"icon": "devicon:react",
+		"link": {
+			"url": "https://react.dev/"
+		}
+	},
+	{
+		"title": "Next.js",
+		"icon": "file-icons:nextjs",
+		"link": {
+			"url": "https://nextjs.org/"
+		}
+	},
+	{
+		"title": "Python",
+		"icon": "devicon:python",
+		"link": {
+			"url": "https://python.org/"
+		}
+	},
+	{
+		"title": "Node.js",
+		"icon": "devicon:nodejs",
+		"link": {
+			"url": "https://nodejs.org/"
+		}
+	},
+	{
+		"title": "HTML",
+		"icon": "devicon:html5",
+		"link": {
+			"url": "https://html.spec.whatwg.org/multipage/"
+		}
+	},
+	{
+		"title": "CSS",
+		"icon": "devicon:css3",
+		"link": {
+			"url": "https://www.w3.org/TR/CSS/#css"
+		}
+	},
+	{
+		"title": "Tailwind CSS",
+		"icon": "devicon:tailwindcss",
+		"link": {
+			"url": "https://tailwindcss.com/docs"
+		}
+	},
+	{
+		"title": "PHP",
+		"icon": "devicon:php",
+		"link": {
+			"url": "https://www.php.net/docs.php"
+		}
+	},
+	{
+		"title": "MySQL",
+		"icon": "devicon:mysql",
+		"link": {
+			"url": "https://www.mysql.com/"
+		}
+	},
+	{
+		"title": "C",
+		"icon": "devicon:c",
+		"link": {
+			"url": "https://www.open-std.org/jtc1/sc22/wg14/"
+		}
+	},
+	{
+		"title": "Java",
+		"icon": "devicon:java",
+		"link": {
+			"url": "https://java.com/"
+		}
+	},
+	{
+		"title": "Bash",
+		"icon": "devicon-plain:bash",
+		"link": {
+			"url": "https://www.gnu.org/software/bash/"
+		}
+	},
+	{
+		"title": "Vim",
+		"icon": "devicon:vim",
+		"link": {
+			"url": "https://github.com/vim/vim"
+		}
+	},
+	{
+		"title": "Powershell",
+		"icon": "devicon:powershell",
+		"link": {
+			"url": "https://learn.microsoft.com/en-us/powershell/"
+		}
+	},
+	{
+		"title": "Markdown",
+		"icon": "mdi:language-markdown",
+		"link": {
+			"url": "https://www.markdownguide.org/"
+		}
+	},
+	{
+		"title": "Latex",
+		"icon": "file-icons:latex",
+		"link": {
+			"url": "https://www.latex-project.org/help/documentation/"
+		}
+	},
+	{
+		"title": "Git",
+		"icon": "devicon:git",
+		"link": {
+			"url": "https://git-scm.com/"
+		}
+	},
+	{
+		"title": "Github",
+		"icon": "mdi:github",
+		"link": {
+			"url": "https://docs.github.com/"
+		}
+	},
+	{
+		"title": "VS Code",
+		"icon": "devicon:vscode",
+		"link": {
+			"url": "https://code.visualstudio.com/docs/"
+		}
+	},
+	{
+		"title": "Firebase",
+		"icon": "logos:firebase",
+		"link": {
+			"url": "https://firebase.google.com/docs/"
+		}
+	},
+	{
+		"title": "Vercel",
+		"icon": "gg:vercel",
+		"link": {
+			"url": "https://vercel.com/docs"
+		}
+	},
+	{
+		"title": "Figma",
+		"icon": "logos:figma",
+		"link": {
+			"url": "https://figma.com/"
+		}
+	},
+	{
+		"title": "Linux",
+		"icon": "devicon:linux",
+		"link": {
+			"url": "https://github.com/torvalds/linux"
+		}
+	}
+]

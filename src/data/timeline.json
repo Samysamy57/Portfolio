@@ -1,0 +1,26 @@
+[
+	{
+		"date": "07-2024",
+		"title": "Joined Total-X",
+		"description": "Joined Total-X as a Software Developer (React JS)",
+		"icon": "icon-park-outline:code-laptop"
+	},
+	{
+		"date": "06-2024",
+		"title": "B.Tech IT Graduate (2020-2024)",
+		"description": "Completed B.Tech in Information Technology from Govt Engineering College Sreekrishnapuram Palakkad",
+		"icon": "material-symbols:school"
+	},
+	{
+		"date": "03-2020",
+		"title": "Higher Secondary Education",
+		"description": "Completed Higher Secondary Education from Govt Rajah's Higher Secondary School Kottakkal",
+		"icon": "feather:book"
+	},
+	{
+		"date": "12-2002",
+		"title": "Date of Birth",
+		"description": "I was born in December 2002.",
+		"icon": "mdi:hospital-building"
+	}
+]
