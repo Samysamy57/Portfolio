@@ -63,7 +63,7 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 			type: NavigationItemType.LINK,
 			icon: 'mdi:resume',
 			text: 'CV',
-			href: 'https://drive.google.com/file/d/1_xn33U0VfmW2oD9iyBH1ki12SqkJ8Avr/view',
+			href: 'https://drive.google.com/file/d/1Izlve3cknYSfkwEiu3u3HURDTpSXilRI/view?usp=sharing',
 			external: true,
 		},
 	],
