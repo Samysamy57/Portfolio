@@ -49,13 +49,6 @@
 		}
 	},
 	{
-		"title": "Tailwind CSS",
-		"icon": "devicon:tailwindcss",
-		"link": {
-			"url": "https://tailwindcss.com/docs"
-		}
-	},
-	{
 		"title": "PHP",
 		"icon": "devicon:php",
 		"link": {
@@ -70,52 +63,10 @@
 		}
 	},
 	{
-		"title": "C",
-		"icon": "devicon:c",
-		"link": {
-			"url": "https://www.open-std.org/jtc1/sc22/wg14/"
-		}
-	},
-	{
 		"title": "Java",
 		"icon": "devicon:java",
 		"link": {
 			"url": "https://java.com/"
-		}
-	},
-	{
-		"title": "Bash",
-		"icon": "devicon-plain:bash",
-		"link": {
-			"url": "https://www.gnu.org/software/bash/"
-		}
-	},
-	{
-		"title": "Vim",
-		"icon": "devicon:vim",
-		"link": {
-			"url": "https://github.com/vim/vim"
-		}
-	},
-	{
-		"title": "Powershell",
-		"icon": "devicon:powershell",
-		"link": {
-			"url": "https://learn.microsoft.com/en-us/powershell/"
-		}
-	},
-	{
-		"title": "Markdown",
-		"icon": "mdi:language-markdown",
-		"link": {
-			"url": "https://www.markdownguide.org/"
-		}
-	},
-	{
-		"title": "Latex",
-		"icon": "file-icons:latex",
-		"link": {
-			"url": "https://www.latex-project.org/help/documentation/"
 		}
 	},
 	{

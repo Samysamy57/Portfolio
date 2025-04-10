@@ -43,7 +43,7 @@ export function Item({
 							style={{ width: '100%', height: 'auto' }}
 							className="cursor-pointer rounded-t-lg"
 							alt={title}
-							onClick={() => window.open("https://github.com/sameemul-haque/" + title)}
+							onClick={() => window.open("https://github.com/Samysamy57/" + title)}
 						/>
 					</div>
 				) : (

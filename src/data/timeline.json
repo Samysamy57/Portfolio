@@ -1,26 +1,26 @@
 [
 	{
-		"date": "07-2024",
-		"title": "Joined Total-X",
-		"description": "Joined Total-X as a Software Developer (React JS)",
-		"icon": "icon-park-outline:code-laptop"
+		"date": "09-2024",
+		"title": "École d'ingénieur en informatique",
+		"description": "Début du cursus en école d'ingénieur en informatique à Paris pour 3 ans.",
+		"icon": "material-symbols:computer"
 	},
 	{
-		"date": "06-2024",
-		"title": "B.Tech IT Graduate (2020-2024)",
-		"description": "Completed B.Tech in Information Technology from Govt Engineering College Sreekrishnapuram Palakkad",
-		"icon": "material-symbols:school"
-	},
-	{
-		"date": "03-2020",
-		"title": "Higher Secondary Education",
-		"description": "Completed Higher Secondary Education from Govt Rajah's Higher Secondary School Kottakkal",
+		"date": "09-2022",
+		"title": "Classe Préparatoire TSI",
+		"description": "Entrée en CPGE TSI (Technologie et Sciences Industrielles), formation sur 2 ans.",
 		"icon": "feather:book"
 	},
 	{
-		"date": "12-2002",
-		"title": "Date of Birth",
-		"description": "I was born in December 2002.",
+		"date": "07-2022",
+		"title": "Baccalauréat STI2D - Spécialité EE",
+		"description": "Obtention du baccalauréat STI2D, spécialité Énergie et Environnement (EE).",
+		"icon": "material-symbols:school"
+	},
+	{
+		"date": "10-2003",
+		"title": "Date de Naissance",
+		"description": "Je suis né en octobre 2003.",
 		"icon": "mdi:hospital-building"
 	}
 ]

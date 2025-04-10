@@ -2,8 +2,8 @@
 	"private": true,
 	"name": "samy-babouri-portfolio.vercel.app",
 	"version": "10.8.1",
-	"description": "Personal Website for sameemul-haque",
-	"repository": "https://github.com/sameemul-haque/portfolio.git",
+	"description": "Portfolio Website de Samy ",
+	"repository": "https://github.com/Samysamy57/portfolio.git",
 	"license": "MIT",
 	"prettier": {
 		"arrowParens": "always",

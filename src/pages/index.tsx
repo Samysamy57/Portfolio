@@ -17,47 +17,49 @@ const Event = dynamic<EventProps>(
 );
 
 const ACTIONS: Array<NavigationItem> = [
-	{
-		type: NavigationItemType.LINK,
-		href: 'https://linkedin.com/in/sameemul-haque',
-		icon: <Icon className="mr-3" icon="line-md:linkedin" />,
-		text: 'LinkedIn',
-	},
+
 	{
 		type: NavigationItemType.LINK,
 		href: '/projects',
 		icon: <Icon className="mr-3" icon="line-md:text-box-multiple" />,
-		text: 'Projects',
+		text: 'Projets',
 	},
+
 	{
 		type: NavigationItemType.LINK,
 		external: true,
-		href: 'https://github.com/sameemul-haque',
-		icon: <Icon className="mr-3" icon="line-md:github" />,
-		text: 'GitHub',
-	},
-	{
-		type: NavigationItemType.LINK,
-		external: true,
-		href: '/blog',
-		icon: <Icon className="mr-3" icon="line-md:edit" />,
-		text: 'Blog',
+		href: '/skills',
+		icon: <Icon className="mr-3" icon="line-md:clipboard-check" />,
+		text: 'Skills',
 	},
 	{
 		type: NavigationItemType.LINK,
 		href: 'https://drive.google.com/file/d/1_xn33U0VfmW2oD9iyBH1ki12SqkJ8Avr/view',
 		icon: <Icon className="mr-3" icon="mdi:resume" />,
-		text: 'Resume',
+		text: 'CV',
+	},
+	{
+		type: NavigationItemType.LINK,
+		href: 'https://www.linkedin.com/in/samy-babouri/',
+		icon: <Icon className="mr-3" icon="line-md:linkedin" />,
+		text: 'LinkedIn',
+	},
+	{
+		type: NavigationItemType.LINK,
+		external: true,
+		href: 'https://github.com/Samysamy57',
+		icon: <Icon className="mr-3" icon="line-md:github" />,
+		text: 'GitHub',
 	},
 ];
 
 export default function HomePage(): JSX.Element {
 	const today = new Date();
-	const birthday = new Date('2002-12-17');
+	const birthday = new Date('2003-10-27');
 	const isBirthday =
 		today.getDate() === birthday.getDate() && today.getMonth() === birthday.getMonth();
 
-	const description = `I am a Software Engineer.`;
+	const description = `Je suis ingénieur Informatique.`;
 
 	return (
 		<>

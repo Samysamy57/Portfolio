@@ -15,12 +15,7 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 			text: 'Home',
 			href: '/',
 		},
-		{
-			type: NavigationItemType.LINK,
-			icon: 'line-md:edit',
-			text: 'Blog',
-			href: '/blog',
-		},
+
 		{
 			type: NavigationItemType.LINK,
 			icon: 'line-md:clipboard-check',
@@ -30,66 +25,47 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 		{
 			type: NavigationItemType.LINK,
 			icon: 'line-md:text-box-multiple',
-			text: 'Projects',
+			text: 'Projets',
 			href: '/projects',
 		},
 		{
 			type: NavigationItemType.LINK,
 			icon: 'feather:clock',
-			text: 'Timeline',
+			text: 'Mon Parcours',
 			href: '/timeline',
 		},
 	],
 	[
-		// {
-		// 	type: NavigationItemType.LINK,
-		// 	icon: 'line-md:linkedin',
-		// 	text: 'LinkedIn',
-		// 	href: 'https://linkedin.com/in/sameemul-haque',
-		// 	external: true,
-		// },
-		// {
-		// 	type: NavigationItemType.LINK,
-		// 	icon: 'line-md:github',
-		// 	text: 'GitHub',
-		// 	href: 'https://github.com/sameemul-haque',
-		// 	external: true,
-		// },
 		{
 			type: NavigationItemType.LINK,
-			icon: 'line-md:discord',
-			text: 'Discord',
-			href: 'https://discordapp.com/users/764716671382061096',
+			icon: 'line-md:linkedin',
+			text: 'LinkedIn',
+			href: 'https://www.linkedin.com/in/samy-babouri',
 			external: true,
 		},
 		{
 			type: NavigationItemType.LINK,
-			icon: 'line-md:instagram',
-			text: 'Instagram',
-			href: 'https://instagram.com/sameemul_haque',
+			icon: 'line-md:github',
+			text: 'GitHub',
+			href: 'https://github.com/Samysamy57',
 			external: true,
 		},
-		{
-			type: NavigationItemType.LINK,
-			icon: 'line-md:twitter-x',
-			text: 'Twitter',
-			href: 'https://twitter.com/sameemul_haque',
-			external: true,
-		},
+
+
 		{
 			type: NavigationItemType.LINK,
 			icon: 'line-md:email',
 			text: 'Email',
-			href: 'mailto:samhaqk@gmail.com',
+			href: 'mailto:samybabouri57@hotmail.com',
 			external: true,
 		},
-		// {
-		// 	type: NavigationItemType.LINK,
-		// 	icon: 'mdi:resume',
-		// 	text: 'View Resume',
-		// 	href: 'https://drive.google.com/file/d/1_xn33U0VfmW2oD9iyBH1ki12SqkJ8Avr/view',
-		// 	external: true,
-		// },
+		{
+			type: NavigationItemType.LINK,
+			icon: 'mdi:resume',
+			text: 'CV',
+			href: 'https://drive.google.com/file/d/1_xn33U0VfmW2oD9iyBH1ki12SqkJ8Avr/view',
+			external: true,
+		},
 	],
 ];
 
@@ -106,15 +82,15 @@ export function useNavigation(): {
 		...staticMenuItems,
 		...(!loading && status.discord_status !== 'offline'
 			? [
-					[
-						{
-							type: NavigationItemType.LINK,
-							icon: <Status.Indicator color={color} pulse />,
-							text: 'Status',
-							href: '/status',
-						} as NavigationItem,
-					],
-			  ]
+				[
+					{
+						type: NavigationItemType.LINK,
+						icon: <Status.Indicator color={color} pulse />,
+						text: 'Status',
+						href: '/status',
+					} as NavigationItem,
+				],
+			]
 			: []),
 	];
 
